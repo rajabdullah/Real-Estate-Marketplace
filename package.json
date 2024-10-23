@@ -7,7 +7,7 @@
     "dev": "nodemon backend/index.js",
     "start": "node backend/index.js"
   },
-  "author": "",
+  "author": "Abdullah",
   "license": "ISC",
   "description": "",
   "dependencies": {
